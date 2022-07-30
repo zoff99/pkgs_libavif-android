@@ -1,0 +1,11 @@
+
+
+install:
+   - echo "installing ..."
+   - pwd
+   - id -a
+   - ls -al
+   - unzip local_maven_pkgs_libavif_1.0.1.zip
+   - mv -v root/.m2 ~/
+
+
