@@ -1,2 +1,1 @@
-# pkgs_libavif-android
-jitpack libavif-android
+# jitpack libavif-android
